@@ -1,5 +1,4 @@
 def line(deli)
-  new_line = "The line is currently: "
     if deli.length == 0
       puts "The line is currently empty."
     else 
